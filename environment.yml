@@ -1,0 +1,29 @@
+name: CleanCLIP
+channels:
+  - defaults
+dependencies:
+  - pip
+  - pip:
+    - albumentations
+    - dill
+    - einops
+    - ftfy
+    - git+https://github.com/openai/CLIP.git
+    - h5py
+    - matplotlib
+    - numpy
+    - nltk
+    - omegaconf
+    - pandas
+    - pillow
+    - pip
+    - pyflakes
+    - regex
+    - scikit-image
+    - seaborn
+    - tensorflow
+    - tokenizers
+    - tqdm
+    - typing_extensions
+    - wandb
+    - wrapt
