@@ -1,8 +1,8 @@
-# CleanCLIP (ICCV 2023) &mdash; Official PyTorch Implementation
+# CleanCLIP (ICCV 2023 Oral) &mdash; Official PyTorch Implementation
 
 <h1 align="center"><img src="./docs/images/CleanCLIP_intro.png" width="75%"></h1>
 
-This repository contains the official PyTorch implementation of the following paper at **ICCV 2023** and **Best Paper at the [RTML workshop](https://rtml-iclr2023.github.io/) at ICLR 2023**:
+This repository contains the official PyTorch implementation of the following **Oral (Top 1.8%) paper at ICCV 2023** and :trophy: **Best Paper at the [RTML workshop](https://rtml-iclr2023.github.io/) at ICLR 2023**:
 
 > **CleanCLIP: Mitigating Data Poisoning Attacks in Multimodal Contrastive Learning**<br>
 > Hritik Bansal* (UCLA), Nishad Singhi* (University of Tübingen), Yu Yang (UCLA), Fan Yin (UCLA), Aditya Grover (UCLA), Kai-Wei Chang (UCLA)<br>
@@ -25,7 +25,7 @@ You can use, redistribute, and adapt the material for non-commercial purposes, a
 
 ## Download the CC3M Dataset
 1. wget https://storage.cloud.google.com/gcc-data/Train/GCC-training.tsv?_ga=2.191230122.-1896153081.1529438250
-2. Run download.py -f GCC-training.tsv -d <directory where images should be stored>
+2. Run download.py -f GCC-training.tsv -d <directory_where_images_should_be_stored>
 
 ## Setup Environment and Install dependencies
 
