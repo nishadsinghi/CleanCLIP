@@ -23,6 +23,10 @@ You can use, redistribute, and adapt the material for non-commercial purposes, a
 - Both Linux and Windows are supported, but we strongly recommend Linux for performance and compatibility reasons.
 - 64-bit Python 3.7+ installation.
 
+## Download the CC3M Dataset
+1. wget https://storage.cloud.google.com/gcc-data/Train/GCC-training.tsv?_ga=2.191230122.-1896153081.1529438250
+2. Run download.py -f GCC-training.tsv -d <directory where images should be stored>
+
 ## Setup Environment and Install dependencies
 
 ### Clone the repository
