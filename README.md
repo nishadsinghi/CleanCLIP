@@ -125,4 +125,4 @@ For ImageNet1K: There should be a labels.csv in the test data directory that con
 
 ## Pretrained Checkpoints
 
-You can find the pre-trained checkpoints [here](https://drive.google.com/drive/folders/1kL6F3VuI6Loajks5h220anxfEBiSqz5Y?usp=share_link).
+You can find the pre-trained checkpoints [here](https://huggingface.co/cleanclip/cleanclip_models).
